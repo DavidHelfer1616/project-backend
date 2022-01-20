@@ -69,8 +69,7 @@ handle, located just above their posts. When the user navigates their profile th
 their usernam, password, full name, email, and even their profile picture.
 
 ## Contributors
-Brady Westveer
-Jason Chan
+Brady Westveer and Jason Chan
 
 ## Links to front-end and testing application
 Front-End: ```https://github.com/DavidHelfer1616/project2-frontend```
